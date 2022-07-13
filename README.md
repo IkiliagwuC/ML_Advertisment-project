@@ -31,4 +31,4 @@ An advertisement.csv(attached) dataset was used and it contains;
 
 *seperate into train and test data 
 
-*Use logistic regression to predict customer behavior(Click on Ad) based on features
+*Use logistic regression to predict customer behavior('Click on Ad') based on features
