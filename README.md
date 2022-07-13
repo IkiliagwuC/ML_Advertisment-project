@@ -23,6 +23,8 @@ An advertisement.csv(attached) dataset was used and it contains;
 
 'Clicked on Ad': 0 or 1 indicated clicking on Ad
 
+
+
 *perform Exploratory Data analysis for insights into the data set;
 
 *The goal being to clean the data for the ML software; sklearn
